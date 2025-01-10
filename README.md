@@ -1,2 +1,2 @@
 # C-_Examples
-Same Examples and assignments in C#
+Some Examples and assignments in C#
